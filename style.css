@@ -1,0 +1,52 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    max-width: 314px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.comments {
+    height: 200px;
+}
+
+.box {
+    position: relative;
+}
+
+.box > textarea {
+    border-color: #00000030;
+    border-radius: 10px;
+    border-bottom: 3px solid #00000059;
+}
+
+.box > label {
+position: absolute;
+top: 20px;
+right: 184px;
+font-size: 0.7rem;
+color: #80808080;
+}
+.comment-img {
+    position: absolute;
+    right: 102px;
+    bottom: 13px;
+}
+.comment-bottom{
+    position: absolute;
+    right: 17px;
+    bottom: 14px;
+    border-color: #00000024;
+    border-radius: 12px;
+    font-size: 13px;
+    background: black;
+    color: white;
+}
+
