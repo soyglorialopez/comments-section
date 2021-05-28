@@ -5,4 +5,4 @@ _It is created in the form of Mobile First._  <br>
 
 
 ### View Demo:
- _https://infallible-shockley-a801e0.netlify.app/_
+ _https://comments-section.netlify.app/_
